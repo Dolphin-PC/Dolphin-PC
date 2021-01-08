@@ -6,3 +6,5 @@
 - 🤔 I'm always effort for good code, and I think for good service.
 - :memo: I’m currently learning mainly React.js (with Android)
 - :bulb: I'm interested in Finance and Mobility.
+
+- :smiley_cat: And I have two very cute cats.(Kong & bizy)
