@@ -10,7 +10,6 @@
 박찬영 / Front-End Dev.<br/>
 1996.01.10 / 서울특별시<br/>
 Email. pcx474@gmail.com<br/>
-프론트엔드 개발자입니다.<br/>
 
 Android, Flutter를 거쳐 현재는 React.js를 주로 개발하고 있습니다.<br/>
 
@@ -21,7 +20,7 @@ Android, Flutter를 거쳐 현재는 React.js를 주로 개발하고 있습니�
 ### TECH SKILL
 #JAVA - Android<br/>
 #JAVASCRIPT - React.js<br/>
-Others - Firebase<br/>
+#Others - Firebase<br/>
 
 ### AWARDS
 - 2019 학생창업유망팀 300 선정 
