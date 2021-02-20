@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
-
+# 안녕하세요.
+# 기획하는 개발자, 박찬영입니다.
+항상 좋은 코드를 위해 노력하고, 좋은 서비스를 위해 생각합니다.
+코드를 잘 작성하는 좋은 개발자가 되기 위해 꾸준히 공부하며,
+서비스로 세상을 변화하기 위해 트렌드를 이해하고 생각합니다.
+<hr/>
 You can use the [editor on GitHub](https://github.com/Dolphin-PC/Dolphin-PC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
