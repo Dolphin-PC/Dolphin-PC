@@ -1,4 +1,5 @@
 <img src="https://dolphin-pc.github.io/Dolphin-PC/git.PNG" width="80%"/>
+<br/>
 <small>항상 좋은 코드를 위해 노력하고, 좋은 서비스를 위해 생각합니다.<br/>
 코드를 잘 작성하는 좋은 개발자가 되기 위해 꾸준히 공부하며,<br/>
 서비스로 세상을 변화하기 위해 트렌드를 이해하고 생각합니다.</small>
