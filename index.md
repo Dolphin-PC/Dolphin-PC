@@ -24,6 +24,6 @@ Android, Flutter를 거쳐 현재는 React.js를 주로 개발하고 있습니�
 - 2020. NH 챌린지 온라인 해커톤 장려 #NH_API #포전매매간편서비스 #REACT웹앱
 
 ### PORTFOLIO
-[View On file]("/Portfolio.pdf")
+[View On file](/Portfolio.pdf)
 
 
