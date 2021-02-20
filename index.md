@@ -31,7 +31,7 @@ Android, Flutter를 거쳐 현재는 React.js를 주로 개발하고 있습니�
 <small>#NH_API #포전매매간편서비스 #REACT웹앱</small><br/>
 
 ### PORTFOLIO
-[View On file](/Portfolio.pdf)
+[View On file](/Portfolio.pdf)<br/>
 [MyRepository](https://github.com/Dolphin-PC?tab=repositories)
 
 
