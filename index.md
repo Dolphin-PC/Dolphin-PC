@@ -34,4 +34,6 @@ Android, Flutter를 거쳐 현재는 React.js를 주로 개발하고 있습니�
 [View On file](/Portfolio.pdf)<br/>
 [MyRepository](https://github.com/Dolphin-PC?tab=repositories)
 
-
+### I'm doing...
+[경제신문스크랩](/scrap)
+[Notion](https://www.notion.so/s-Notion-244775dbb0544133aa4e496fcc7e760b)
