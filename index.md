@@ -1,8 +1,7 @@
 <img src="https://dolphin-pc.github.io/Dolphin-PC/git.PNG" width="80%"/>
 <br/>
 <small>항상 좋은 코드를 위해 노력하고, 좋은 서비스를 위해 생각합니다.<br/>
-코드를 잘 작성하는 좋은 개발자가 되기 위해 꾸준히 공부하며,<br/>
-서비스로 세상을 변화하기 위해 트렌드를 이해하고 생각합니다.</small>
+팀으로 일하는 것을 즐기고, 몰입하는 것을 좋아합니다.</small>
 <hr/>
 
 
@@ -11,14 +10,18 @@
 1996.01.10 / 서울특별시<br/>
 Email. pcx474@gmail.com<br/>
 
-Android, Flutter를 거쳐 현재는 React.js를 주로 개발하고 있습니다.<br/>
+프론트엔드를 중점적으로 하는 웹 개발자 입니다.<br/>
 
 ### GRADUATION
 2014 졸업. 송파공업고등학교<br/>
 2020 졸업. 한림대학교 콘텐츠 IT학과<br/>
 
+### COMPANY
+2019.09 ~ 2020.12 : (주) EC&H
+2021.04 ~ 2022.01 : (재) 한국간편결제진흥원(제로페이)
+
 ### TECH SKILL
-#JAVA - Android<br/>
+#JAVA - Android, Spring<br/>
 #JAVASCRIPT - React.js<br/>
 #Others - Firebase<br/>
 
