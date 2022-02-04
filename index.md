@@ -38,5 +38,4 @@ Email. pcx474@gmail.com<br/>
 [MyRepository](https://github.com/Dolphin-PC?tab=repositories)
 
 ### I'm doing...
-[경제신문스크랩](https://www.notion.so/f597a6f26d8648bcb8cc80f0ce5eb1a4)<br/>
 [Notion](https://www.notion.so/s-Notion-244775dbb0544133aa4e496fcc7e760b)
