@@ -35,8 +35,9 @@ Email. pcx474@gmail.com<br/>
 
 ### OTHER INFO
 - [이력서](https://www.notion.so/dolphin-pc/ffd75bfbbaea4c72b908a693c046f85c)
-- [포트폴리오](portfolio.pdf)
+- [포트폴리오](Portfolio.pdf)
 - [프로젝트 Repo list](https://github.com/stars/Dolphin-PC/lists/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [Notion](https://www.notion.so/s-Notion-244775dbb0544133aa4e496fcc7e760b)
 
 
+[text](portfolio.pdf)
