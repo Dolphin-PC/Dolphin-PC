@@ -10,15 +10,15 @@
 1996.01.10 / 서울특별시<br/>
 Email. pcx474@gmail.com<br/>
 
-프론트엔드를 중점적으로 하는 웹 개발자 입니다.<br/>
+프론트엔드 웹 개발자 입니다.<br/>
 
 ### GRADUATION
 2014 졸업. 송파공업고등학교<br/>
 2020 졸업. 한림대학교 콘텐츠 IT학과<br/>
 
 ### COMPANY
-2019.09 ~ 2020.12 : (주) EC&H<br/>
-2021.04 ~ 2022.01 : (재) 한국간편결제진흥원(제로페이)<br/>
+2021.04 ~ 2022.01 : 한국간편결제진흥원(제로페이)<br/>
+2022.03 ~ 2023.09 : 엠케이유니버스<br/>
 
 ### TECH SKILL
 #JAVA - Android, Spring<br/>
@@ -33,9 +33,10 @@ Email. pcx474@gmail.com<br/>
 - 2020 NH 챌린지 온라인 해커톤 장려 
 <small>#NH_API #포전매매간편서비스 #REACT웹앱</small><br/>
 
-### PORTFOLIO
-[View On file](/Portfolio.pdf)<br/>
-[MyRepository](https://github.com/Dolphin-PC?tab=repositories)
+### OTHER INFO
+- [이력서](https://www.notion.so/dolphin-pc/ffd75bfbbaea4c72b908a693c046f85c)
+- [포트폴리오](<[2024 포트폴리오] 박찬영.pdf>)
+- [프로젝트 Repo list](https://github.com/stars/Dolphin-PC/lists/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [Notion](https://www.notion.so/s-Notion-244775dbb0544133aa4e496fcc7e760b)
 
-### I'm doing...
-[Notion](https://www.notion.so/s-Notion-244775dbb0544133aa4e496fcc7e760b)
+
